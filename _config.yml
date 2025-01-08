@@ -1,3 +1,4 @@
 name: My Site
 theme: minima
-plugins: - jekyll-sitemap
+plugins:
+  - jekyll-sitemap
